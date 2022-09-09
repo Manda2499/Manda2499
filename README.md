@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manda2499;
 - 👀 I’m interested in development application web;
-- 🌱 I’m currently learning POO, APIrest, Websocket and Framework (Nodejs and symfony5);
+- 🌱 I’m currently learning python, POO, APIrest, Websocket and Framework (Nodejs and symfony5);
 - 💞️ I'am looking to collaborate with a company as a freelancer;
 - 📫 How to reach me ==> mail: manda.andriamiadana87@gmail.com.
 -------------------------Thanks for visit--------------------------
